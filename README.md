@@ -66,12 +66,12 @@ Everything is geared for **educational use** and **developer freedom**.
 ```
 src/
 ├── app/                  # App layout and pages
+│    └─ api/              # AI chat routes and system prompts
 ├── components/           # Main components
 │   └── ui/               # shadcn/ui wrapped components
 ├── hooks/                # Custom React hooks
 ├── lib/                  # Tools, utils, and execution logic
 ├── store/                # LocalStorage-persistent stores
-└── api/                  # AI chat routes and system prompts
 ```
 
 ---
