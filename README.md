@@ -27,7 +27,7 @@ Everything is geared for **educational use** and **developer freedom**.
   - Markdown toggle
   - “Dev mode” for enhanced prompts
   - Source toggle for web search visibility
-  - model selection
+  - Model selection
 - ✍️ **Custom instructions**, including:
   - Bot name reference
   - Personality tuning
@@ -36,15 +36,15 @@ Everything is geared for **educational use** and **developer freedom**.
   - Code execution (via Piston)
   - Chart generation (via Recharts)
   - Global weather data
-  - Quote generator
-  - Web search with private browsing (no third-party APIs)
+  - Quote fetcher
+  - Web search with private browsing (via SearXNG instances)
 - 🛠️ **Optimized system prompt** for Deepseek R1 & LLaMA models via **Groq**
 - 💬 **Sleek chat interface** with:
   - Animated streaming responses
   - File input (image/text support)
   - Stop & regenerate stream actions
   - Chat starter templates
-  - Custom iconography, modal design, and sidebar layout
+  - Lucide iconography, modal design, and sidebar layout
 - 🧪 **Error-safe streaming and regen fallback handling**
 - 🌙 **Dark mode** & modern UI polish
 
